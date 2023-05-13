@@ -7,13 +7,13 @@
   
   :root {
     /* color for main nav */
-    --bg-dark-brown: #674747;
+    --bg-dark-brown: #486747;
   
     /* color for (description and image (tittled)) nav. */
     --bg-green-gray: #829460;
   
     /* color for border */
-    --b-dark-red: #F96666;
+    --b-dark-red: #b2f966;
   
     /* color for new wrapper div */
     --b-light-white: #fff;
@@ -27,7 +27,6 @@
     align-items: center;
     text-align: center;
     box-sizing: border-box;
-    border-bottom: solid 2px #F96666;
     color: white;
   }
   
@@ -42,7 +41,7 @@
     gap: 10px;
     height: auto;
     width: 100%;
-    background-color: #E5BA73;
+    background-color: #a6d0a0;
   }
   
   .enroll-student {
